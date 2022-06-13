@@ -1,0 +1,13 @@
+[
+    {
+        "name":"Romina",
+        "age": 22,
+        "language": ["JavaScript","PHP"]
+    },
+    {
+        "name":"Animor",
+        "age": 22,
+        "language": ["JavaScript","PHP"]
+    }
+
+]
